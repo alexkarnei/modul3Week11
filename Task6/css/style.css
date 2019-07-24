@@ -1,0 +1,26 @@
+* {
+    padding: 0;
+    margin: 0;
+}
+.button{
+    float: left;
+}
+#buttonOne{
+    margin-left: 30px;
+}
+#buttonTwo {
+    margin-top: 50px;
+    margin-left: 150px ;
+}
+.tooltip {
+    position: fixed;
+    padding: 10px 20px;
+    border: 1px solid #b3c9ce;
+    border-radius: 4px;
+    text-align: center;
+    font: italic 14px/1.3 sans-serif;
+    color: #333;
+    background: blueviolet;
+    color: black;
+    box-shadow: 3px 3px 3px rgba(0, 0, 0, .3);
+}
