@@ -1,0 +1,33 @@
+body {
+    background-color: #d3d3d3;
+}
+
+#modal {
+    display: none;
+    position: fixed;
+    z-index: 1;
+    left: 300px;
+    top: 200px;
+    width: 50%;
+    height: 30%;
+    overflow: auto;
+    background-color: lightblue;
+}
+
+#close {
+    position: center;
+    display: block;
+    margin-top: 50px;
+    margin-left: 200px;
+    padding-left: 100px;
+    padding-right: 100px;
+
+}
+
+
+p {
+    margin-top: 30px;
+    font-weight: bold;
+    text-align: center;
+    color: black;
+}
